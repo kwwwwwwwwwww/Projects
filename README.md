@@ -6,10 +6,17 @@ Welcome to my GitHub! This is where I showcase my data science and machine learn
 
 ## 🧠 About Me  
 
-- 💼 Background in **Data Analysis, Data Science and Machine Learning**  
-- 🔧 Experienced with **Python**, **Pandas**, **NumPy**, **Scikit-learn**, **TensorFlow**, and **Matplotlib**  
-- 🧪 Focused on building reproducible, well-documented projects for my portfolio  
-- 📈 Interested in applying data-driven solutions to real-world problems  
+- 🎓 Data Science graduate passionate about using data to uncover insights, build predictive models, and create impactful solutions.  
+- 📊 Learning and gaining experience in **data analysis, machine learning, and data visualization**, while practicing with Python, SQL, and BI tools.  
+- 💡 Currently building projects to strengthen my portfolio and share my learning journey in data science and AI.
+  
+---
+
+## 🔬 Skills & Tools  
+- **Programming & Data**: Python (Pandas, Scikit-learn), SQL  
+- **Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+- **Machine Learning**: Classification, Regression, Deep Learning (LSTM)  
+- **Other Tools**: Power Automate, JIRA, Google Analytics, Excel, Power Query 
 
 ---
 
@@ -23,17 +30,16 @@ Welcome to my GitHub! This is where I showcase my data science and machine learn
 
 ## 🌱 Current Focus  
 
-- Building a strong **data science portfolio** with real-world projects  
-- Experimenting with **deep learning models**   
-- Improving **deployment skills**   
+- Expanding my portfolio with projects in **machine learning, deep learning, and real-world data analysis**.  
+- Exploring **end-to-end applications** that combine backend, frontend, and machine learning.  
 
 ---
 
-## 📫 Connect With Me  
-
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/goh-kai-wen-7a3a0019a/)) 
-- 📧 Email: *(gkw25102@gmail.com)*  
+## 📫 Connect with Me  
+- **Email**: gkw25102@gmail.com  
+- **LinkedIn**: [linkedin.com/in/goh-kai-wen-7a3a0019a](https://linkedin.com/in/goh-kai-wen-7a3a0019a)  
+- **GitHub**: You're already here 🚀  
 
 ---
 
-⭐ **Explore my repositories to see my projects and progress.**
+⭐️ Feel free to check out my repositories — feedback and collaboration ideas are always welcome!  
