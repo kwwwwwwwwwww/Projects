@@ -1,0 +1,155 @@
+/* twitterhashtag.css */
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 10000px;
+    margin: 10 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 300px;
+    margin-right: 10px;
+}
+
+.twitterhashtag-button, .twitterhashtag-reset-button, .twitterhashtag-visualization-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.twitterhashtag-button {
+    background-color: #4CAF50;
+}
+
+.twitterhashtag-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.twitterhashtag-reset-button {
+    background-color: #f44336;
+}
+
+.twitterhashtag-visualization-button {
+    background-color: #2196F3;
+}
+
+.content-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hashtagresults-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 600px; 
+    overflow-y: scroll;
+    flex: 1;
+    margin-right: 20px;
+    transition: transform 0.5s ease;
+    word-break: break-word; /* Ensure long words break to fit within the container */
+}
+
+.hashtagresults-container.slide-left {
+    transform: translateX(-100%);
+}
+
+.hashtagresults-container.slide-right {
+    transform: translateX(0);
+}
+
+.comments-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filter-reset-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    width: 100%; /* Ensure the list takes up the full width of the container */
+}
+
+li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    white-space: pre-wrap; /* Ensure text wraps to fit within the container */
+}
+
+li p {
+    margin: 5px 0;
+    color: #333;
+}
+
+.hashtag-pie-chart-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 30%;
+    height: 600px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.5s ease;
+}
+
+.hashtag-pie-chart-container canvas {
+    width: 80% !important; /* Adjust width to decrease size */
+    height: 80% !important; /* Adjust height to decrease size */
+    max-width: 80%; /* Ensure the pie chart fits inside the container */
+    max-height: 80%; /* Ensure the pie chart fits inside the container */
+}
+
+.hashtag-pie-chart-container.slide-left {
+    transform: translateX(-350%);
+}
+
+.hashtag-pie-chart-container.slide-right {
+    transform: translateX(0);
+}
+

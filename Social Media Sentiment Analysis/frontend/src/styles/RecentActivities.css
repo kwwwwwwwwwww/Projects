@@ -1,0 +1,67 @@
+.recent-activities-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 40px 0; /* Adjust the margin to move the container lower */
+    max-height: 550px; /* Set a maximum height */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.recent-activities-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.recent-activities-header select {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    margin-left: 10px;
+}
+
+.recent-activities-header select:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.recent-activities-container h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.recent-activities-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recent-activities-container li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.recent-activities-container li p {
+    margin: 5px 0;
+    color: #333;
+}
+
+.login-activity {
+    background-color: #d4edda; /* Light green background */
+    color: #155724; /* Dark green text */
+}
+
+.logout-activity {
+    background-color: #f8d7da; /* Light red background */
+    color: #721c24; /* Dark red text */
+}

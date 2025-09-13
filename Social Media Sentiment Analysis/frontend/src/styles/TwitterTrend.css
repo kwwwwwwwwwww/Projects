@@ -1,0 +1,140 @@
+/* twittertrend.css */
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 10000px;
+    margin: 10 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 300px;
+    margin-right: 10px;
+}
+
+.twittertrend-button, .twittertrend-reset-button, .twittertrend-visualization-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.twittertrend-button {
+    background-color: #4CAF50;
+}
+
+.twittertrend-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.twittertrend-reset-button {
+    background-color: #f44336;
+}
+
+.twittertrend-visualization-button {
+    background-color: #2196F3;
+}
+
+.content-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.trendresults-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 600px; 
+    overflow-y: scroll;
+    flex: 1;
+    margin-right: 20px;
+    transition: transform 0.5s ease;
+    word-break: break-word; /* Ensure long words break to fit within the container */
+}
+
+.trendresults-container.slide-left {
+    transform: translateX(-100%);
+}
+
+.trendresults-container.slide-right {
+    transform: translateX(0);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    width: 100%; /* Ensure the list takes up the full width of the container */
+}
+
+li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    white-space: pre-wrap; /* Ensure text wraps to fit within the container */
+}
+
+li p {
+    margin: 5px 0;
+    color: #333;
+}
+
+.trend-pie-chart-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 30%;
+    height: 600px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.5s ease;
+}
+
+.trend-pie-chart-container canvas {
+    width: 80% !important; /* Adjust width to decrease size */
+    height: 80% !important; /* Adjust height to decrease size */
+    max-width: 80%; /* Ensure the pie chart fits inside the container */
+    max-height: 80%; /* Ensure the pie chart fits inside the container */
+}
+
+.trend-pie-chart-container.slide-left {
+    transform: translateX(-350%);
+}
+
+.trend-pie-chart-container.slide-right {
+    transform: translateX(0);
+}

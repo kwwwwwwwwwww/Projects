@@ -1,0 +1,86 @@
+/* Visualization.css */
+
+.visualization-container-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.visualization-container {
+    position: absolute;
+    top: 220px; /* Adjust based on your header height */
+    left: 100%;
+    width: 100%;
+    height: auto; /* Adjust to fit content */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Ensure content starts from the top */
+    background-color: #fff; /* Ensure background color is consistent */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.5s ease; /* Animate the slide */
+    box-sizing: border-box; /* Include padding and border in the width calculation */
+    overflow: hidden; /* Prevent overflow */
+}
+
+.visualization-container.show {
+    transform: translateX(-100%);
+}
+
+.visualization-container.hide {
+    transform: translateX(100%);
+}
+
+.counts-container {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    width: 100%;
+    margin-bottom: 20px;
+    flex-wrap: wrap; /* Allow wrapping to prevent overflow */
+}
+
+.emotion-counts {
+    display: flex;
+    gap: 20px;
+}
+
+.sentiment-counts {
+    display: flex;
+    gap: 20px;
+    margin-left: 50px; /* Adjust the gap between emotions and sentiments */
+}
+
+.count-box {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 1.2em;
+}
+
+.charts-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap; /* Allow wrapping to prevent overflow */
+    padding: 20px; /* Add padding to ensure content stays within bounds */
+}
+
+.bar-chart-container, .pie-chart-container {
+    width: 45%;
+    min-width: 300px; /* Ensure minimum width for charts */
+    padding: 20px; /* Add padding to ensure content stays within bounds */
+    height: 400px; /* Ensure height is sufficient for pie chart */
+    box-sizing: border-box;
+}
+
+.pie-chart-container {
+    margin-left: 50px; /* Adjust to move the pie chart more to the right */
+}

@@ -1,0 +1,127 @@
+.admin-page .admin-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  overflow: hidden; 
+}
+
+.admin-page .admin-container h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.admin-page .admin-container h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.admin-page .admin-content {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.admin-page .admin-content.slide-left {
+  transform: translateX(-100%);
+}
+
+.admin-page .admin-content.slide-right {
+  transform: translateX(0);
+}
+
+.admin-page .user-list, .admin-page .register-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  box-sizing: border-box; 
+  flex-shrink: 0; 
+}
+
+.admin-page ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.admin-page li {
+  font-size: 18px;
+  margin: 5px 0;
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}
+
+.admin-page form {
+  display: flex;
+  flex-direction: column;
+}
+
+.admin-page input, .admin-page select {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.admin-page button {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.admin-page button:last-of-type {
+  margin-bottom: 0; 
+}
+
+.admin-page .admin-cancel-button {
+  background-color: #f44336;
+}
+
+.admin-page .admin-register-button {
+  background-color: rgb(49, 168, 59);
+}
+
+.admin-page .admin-toregister-button {
+  background-color: rgb(49, 168, 59);
+  margin-left: 10px;
+}
+
+.admin-page .error {
+  color: red;
+  font-size: 14px;
+}
+
+.admin-page .button-group {
+  display: flex;
+  gap: 10px; 
+}
+
+.admin-page .message {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 12px 6px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  background-color: rgba(255, 255, 255, 0.9); 
+  position: relative;
+  z-index: 2; 
+}
+
+.admin-page .message.success {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.admin-page .message.error {
+  background-color: #f44336;
+  color: white;
+}
