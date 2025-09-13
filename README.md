@@ -17,7 +17,7 @@ Welcome to my GitHub! This is where I showcase my data science and machine learn
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Social Media Sentiment Analysis](./Social%20Media%20Sentiment%20Analysis) | Analyzes Twitter/Reddit data to measure public sentiment, trains LSTM model for classification, and visualizes trends. | Python, TensorFlow, NLP |
+| [Social Media Sentiment Analysis](./Social%20Media%20Sentiment%20Analysis) | Analyzes Twitter/Reddit data to measure public sentiment, trains LSTM model for classification, and visualizes trends. | Python, TensorFlow, NLP, BiLSTM |
 
 ---
 
