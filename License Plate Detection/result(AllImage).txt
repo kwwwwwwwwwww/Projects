@@ -1,0 +1,148 @@
+0: c:\Users\yansh\Downloads\Project\Project\dataset\00x500.jpg: 0: Text: MH13 BN8454, Confidence: 0.9576936753640796
+1: c:\Users\yansh\Downloads\Project\Project\dataset\1.jfif: 0: Text: MH14 FS 6260, Confidence: 0.7416137841985871
+2: c:\Users\yansh\Downloads\Project\Project\dataset\11.png: 0: Text: HOR5 -ShIT, Confidence: 0.17359127626337584
+3: c:\Users\yansh\Downloads\Project\Project\dataset\13.png: 0: Text: TEXAS, Confidence: 0.9894967065210967
+3: c:\Users\yansh\Downloads\Project\Project\dataset\13.png: 1: Text: EZ-EY., Confidence: 0.38478363494501167
+4: c:\Users\yansh\Downloads\Project\Project\dataset\16.png: 0: Text: GAY247, Confidence: 0.9831624855200352
+5: c:\Users\yansh\Downloads\Project\Project\dataset\17 (1).jpg: 0: Text: UP32 CJ 8469, Confidence: 0.8637444497448477
+6: c:\Users\yansh\Downloads\Project\Project\dataset\2.jfif: 0: Text: MH14 FS 6260, Confidence: 0.6146582933946939
+7: c:\Users\yansh\Downloads\Project\Project\dataset\20200222_165652.jpg: 0: Text: 46 AL 6021, Confidence: 0.982805872123905
+8: c:\Users\yansh\Downloads\Project\Project\dataset\20200222_170233.jpg: 0: Text: MH 43 AT 7491, Confidence: 0.6826050283852589
+8: c:\Users\yansh\Downloads\Project\Project\dataset\20200222_170233.jpg: 1: Text: Global Gallarie, Confidence: 0.8931449405893355
+8: c:\Users\yansh\Downloads\Project\Project\dataset\20200222_170233.jpg: 2: Text: Group, Confidence: 0.9991191330835045
+9: c:\Users\yansh\Downloads\Project\Project\dataset\20200222_173813.jpg: 0: Text: MH Z3 BN 5215, Confidence: 0.6363249996928613
+10: c:\Users\yansh\Downloads\Project\Project\dataset\20200222_173829.jpg: 0: Text: MHO6AF3269, Confidence: 0.7414087088610646
+11: c:\Users\yansh\Downloads\Project\Project\dataset\20200222_173841.jpg: 0: Text: 43 BN 3502, Confidence: 0.7963745114373442
+12: c:\Users\yansh\Downloads\Project\Project\dataset\20200222_174114.jpg: 0: Text: MH.O6.AL.1188, Confidence: 0.330758639321696
+13: c:\Users\yansh\Downloads\Project\Project\dataset\20200222_174119.jpg: 0: Text: MH.03.AR.9181, Confidence: 0.9175903943096386
+14: c:\Users\yansh\Downloads\Project\Project\dataset\20200222_174143.jpg: 0: Text: MH 43 AR 3892, Confidence: 0.6715380803953166
+15: c:\Users\yansh\Downloads\Project\Project\dataset\21.jpg: 0: Text: WWW. TEAM-BHP COM, Confidence: 0.6302008373275457
+16: c:\Users\yansh\Downloads\Project\Project\dataset\6.jpg: 0: Text: SRK 2019, Confidence: 0.9909779676306658
+17: c:\Users\yansh\Downloads\Project\Project\dataset\8.jpg: 0: Text: Mh43aJ5887, Confidence: 0.3562222297995365
+18: c:\Users\yansh\Downloads\Project\Project\dataset\ansh12.jpg: 0: Text: UP32 CJ 8469, Confidence: 0.8637444497448477
+19: c:\Users\yansh\Downloads\Project\Project\dataset\Cars0.png: 0: Text: KL01CA2555, Confidence: 0.5244985964854458
+20: c:\Users\yansh\Downloads\Project\Project\dataset\Cars1.png: 0: Text: PGoMN112, Confidence: 0.7092827764434613
+21: c:\Users\yansh\Downloads\Project\Project\dataset\Cars101.png: No contour detected
+22: c:\Users\yansh\Downloads\Project\Project\dataset\Cars103.png: No contour detected
+23: c:\Users\yansh\Downloads\Project\Project\dataset\Cars104.png: No contour detected
+24: c:\Users\yansh\Downloads\Project\Project\dataset\Cars105.png: No contour detected
+25: c:\Users\yansh\Downloads\Project\Project\dataset\Cars109.png: 0: Text: Czi7 kod, Confidence: 0.48716398565487495
+26: c:\Users\yansh\Downloads\Project\Project\dataset\Cars11.png: 0: Text: CR Si6K, Confidence: 0.20317970046676215
+27: c:\Users\yansh\Downloads\Project\Project\dataset\Cars111.png: 0: Text: MH 20EE 7598, Confidence: 0.8187200221617551
+28: c:\Users\yansh\Downloads\Project\Project\dataset\Cars112.png: 0: Text: SHAKNBK, Confidence: 0.9514766502625149
+29: c:\Users\yansh\Downloads\Project\Project\dataset\Cars113.png: No contour detected
+30: c:\Users\yansh\Downloads\Project\Project\dataset\Cars115.png: 0: Text: Ms66 YOB, Confidence: 0.8152418824567617
+31: c:\Users\yansh\Downloads\Project\Project\dataset\Cars116.png: 0: Text: MK-35-32, Confidence: 0.9998860322315287
+32: c:\Users\yansh\Downloads\Project\Project\dataset\Cars122.png: No contour detected
+33: c:\Users\yansh\Downloads\Project\Project\dataset\Cars125.png: No contour detected
+34: c:\Users\yansh\Downloads\Project\Project\dataset\Cars129.png: No contour detected
+35: c:\Users\yansh\Downloads\Project\Project\dataset\Cars133.png: No contour detected
+36: c:\Users\yansh\Downloads\Project\Project\dataset\Cars14.png: 0: Text: ALR 486, Confidence: 0.744181244266092
+37: c:\Users\yansh\Downloads\Project\Project\dataset\Cars140.png: 0: Text: CHOIANOoOD, Confidence: 0.3457876767642534
+38: c:\Users\yansh\Downloads\Project\Project\dataset\Cars143.png: No contour detected
+39: c:\Users\yansh\Downloads\Project\Project\dataset\Cars147.png: 0: Text: KL01CA2555, Confidence: 0.5244985964854458
+40: c:\Users\yansh\Downloads\Project\Project\dataset\Cars151.png: No contour detected
+41: c:\Users\yansh\Downloads\Project\Project\dataset\Cars155.png: No contour detected
+42: c:\Users\yansh\Downloads\Project\Project\dataset\Cars159.png: 0: Text: @LZC N 5617, Confidence: 0.6968986842139271
+43: c:\Users\yansh\Downloads\Project\Project\dataset\Cars16.png: No contour detected
+44: c:\Users\yansh\Downloads\Project\Project\dataset\Cars161.png: 0: Text: Ms66 YOB, Confidence: 0.8152418824567617
+45: c:\Users\yansh\Downloads\Project\Project\dataset\Cars163.png: 0: Text: ALR33 TEE, Confidence: 0.7521225802509405
+46: c:\Users\yansh\Downloads\Project\Project\dataset\Cars164.png: No relevant text detected
+47: c:\Users\yansh\Downloads\Project\Project\dataset\Cars17.png: No contour detected
+48: c:\Users\yansh\Downloads\Project\Project\dataset\Cars170.png: No contour detected
+49: c:\Users\yansh\Downloads\Project\Project\dataset\Cars174.png: No contour detected
+50: c:\Users\yansh\Downloads\Project\Project\dataset\Cars18.png: 0: Text: Ms66 YOB, Confidence: 0.8152418824567617
+51: c:\Users\yansh\Downloads\Project\Project\dataset\Cars180.png: No contour detected
+52: c:\Users\yansh\Downloads\Project\Project\dataset\Cars181.png: No contour detected
+53: c:\Users\yansh\Downloads\Project\Project\dataset\Cars183.png: 0: Text: BRIT 0001, Confidence: 0.851923429079683
+54: c:\Users\yansh\Downloads\Project\Project\dataset\Cars187.png: 0: Text: ALR 486, Confidence: 0.744181244266092
+55: c:\Users\yansh\Downloads\Project\Project\dataset\Cars190.png: No contour detected
+56: c:\Users\yansh\Downloads\Project\Project\dataset\Cars191.png: No contour detected
+57: c:\Users\yansh\Downloads\Project\Project\dataset\Cars200.png: No contour detected
+58: c:\Users\yansh\Downloads\Project\Project\dataset\Cars204.png: 0: Text: BYOND , Confidence: 0.5833757677907107
+59: c:\Users\yansh\Downloads\Project\Project\dataset\Cars206.png: 0: Text: HR 26 BU, Confidence: 0.4478532001804777
+59: c:\Users\yansh\Downloads\Project\Project\dataset\Cars206.png: 1: Text: 0380, Confidence: 0.6374993324279785
+60: c:\Users\yansh\Downloads\Project\Project\dataset\Cars211.png: 0: Text: F 65022, Confidence: 0.9957856376750471
+60: c:\Users\yansh\Downloads\Project\Project\dataset\Cars211.png: 1: Text: D UBA/, Confidence: 0.4333306237680457
+60: c:\Users\yansh\Downloads\Project\Project\dataset\Cars211.png: 2: Text: LYS, Confidence: 0.2772084534761355
+61: c:\Users\yansh\Downloads\Project\Project\dataset\Cars212.png: 0: Text: KL 65 H4383, Confidence: 0.9782241403886918
+62: c:\Users\yansh\Downloads\Project\Project\dataset\Cars215.png: 0: Text: 74 cH 9984 /, Confidence: 0.07040307098892011
+63: c:\Users\yansh\Downloads\Project\Project\dataset\Cars219.png: 0: Text: Ka:03 MG, Confidence: 0.3445204724404871
+63: c:\Users\yansh\Downloads\Project\Project\dataset\Cars219.png: 1: Text: 2784, Confidence: 0.9999719858169556
+64: c:\Users\yansh\Downloads\Project\Project\dataset\Cars250.png: 0: Text: PGoMN112, Confidence: 0.7092827764434613
+65: c:\Users\yansh\Downloads\Project\Project\dataset\Cars252.png: 0: Text: DAN 54P, Confidence: 0.9907317814503003
+66: c:\Users\yansh\Downloads\Project\Project\dataset\Cars258.png: 0: Text: AC 5957, Confidence: 0.898509228054112
+66: c:\Users\yansh\Downloads\Project\Project\dataset\Cars258.png: 1: Text: KAd_, Confidence: 0.10922732949256897
+67: c:\Users\yansh\Downloads\Project\Project\dataset\Cars259.png: 0: Text: MH 20EE 7598, Confidence: 0.8187200221617551
+68: c:\Users\yansh\Downloads\Project\Project\dataset\Cars265.png: 0: Text: 771278, Confidence: 0.6994921046823617
+69: c:\Users\yansh\Downloads\Project\Project\dataset\Cars27.png: 0: Text: DZIZ YXR, Confidence: 0.821094747668963
+70: c:\Users\yansh\Downloads\Project\Project\dataset\Cars273.png: 0: Text: BRIT 0001, Confidence: 0.851923429079683
+71: c:\Users\yansh\Downloads\Project\Project\dataset\Cars287.png: 0: Text: @LZC N 5617, Confidence: 0.6968986842139271
+72: c:\Users\yansh\Downloads\Project\Project\dataset\Cars296.png: 0: Text: 145, Confidence: 0.9999958016447406
+73: c:\Users\yansh\Downloads\Project\Project\dataset\Cars3.png: 0: Text: DZIZ YXR, Confidence: 0.821094747668963
+74: c:\Users\yansh\Downloads\Project\Project\dataset\Cars318.png: 0: Text: ALR 486, Confidence: 0.744181244266092
+75: c:\Users\yansh\Downloads\Project\Project\dataset\Cars323.png: 0: Text: TN 99F2378, Confidence: 0.9347226731961
+76: c:\Users\yansh\Downloads\Project\Project\dataset\Cars327.png: 0: Text: PGoMN112, Confidence: 0.7092827764434613
+77: c:\Users\yansh\Downloads\Project\Project\dataset\Cars332.png: 0: Text: DZIZ YXR, Confidence: 0.821094747668963
+78: c:\Users\yansh\Downloads\Project\Project\dataset\Cars333.png: 0: Text: MH 20EJ 0364, Confidence: 0.6942645188353177
+79: c:\Users\yansh\Downloads\Project\Project\dataset\Cars344.png: 0: Text: GOOGLE, Confidence: 0.9396325692007831
+80: c:\Users\yansh\Downloads\Project\Project\dataset\Cars355.png: 0: Text: BKTP-665, Confidence: 0.8843530307610739
+81: c:\Users\yansh\Downloads\Project\Project\dataset\Cars365.png: 0: Text: TN21 BZ 0768, Confidence: 0.49259011214749765
+82: c:\Users\yansh\Downloads\Project\Project\dataset\Cars367.png: 0: Text: GOOGLE, Confidence: 0.9396325692007831
+83: c:\Users\yansh\Downloads\Project\Project\dataset\Cars37.png: 0: Text: FAST, Confidence: 0.9798107147216797
+84: c:\Users\yansh\Downloads\Project\Project\dataset\Cars373.png: 0: Text: TN21BC 6225, Confidence: 0.5368526093451162
+85: c:\Users\yansh\Downloads\Project\Project\dataset\Cars375.png: 0: Text: Cahmel & Dave, Confidence: 0.6409580225290312
+85: c:\Users\yansh\Downloads\Project\Project\dataset\Cars375.png: 1: Text: JArtt%6, Confidence: 0.06685591115251334
+86: c:\Users\yansh\Downloads\Project\Project\dataset\Cars379.png: 0: Text: MhiL, Confidence: 0.1304851919412613
+86: c:\Users\yansh\Downloads\Project\Project\dataset\Cars379.png: 1: Text: 9239, Confidence: 0.9999642968177795
+87: c:\Users\yansh\Downloads\Project\Project\dataset\Cars386.png: 0: Text: AB 44887, Confidence: 0.9824626739963259
+88: c:\Users\yansh\Downloads\Project\Project\dataset\Cars387.png: 0: Text: HR26 4Z5927, Confidence: 0.9036197344902583
+89: c:\Users\yansh\Downloads\Project\Project\dataset\Cars389.png: 0: Text: AB 44887, Confidence: 0.9824626739963259
+90: c:\Users\yansh\Downloads\Project\Project\dataset\Cars39.png: 0: Text: HH15BD8877, Confidence: 0.6876841224580874
+91: c:\Users\yansh\Downloads\Project\Project\dataset\Cars393.png: 0: Text: 771278, Confidence: 0.6994921046823617
+92: c:\Users\yansh\Downloads\Project\Project\dataset\Cars404.png: 0: Text: BHH, Confidence: 0.46331970619123447
+93: c:\Users\yansh\Downloads\Project\Project\dataset\Cars415.png: 0: Text: MH1ZNE B922, Confidence: 0.7785863628971367
+94: c:\Users\yansh\Downloads\Project\Project\dataset\Cars416.png: 0: Text: 172, Confidence: 0.22681534122843802
+94: c:\Users\yansh\Downloads\Project\Project\dataset\Cars416.png: 1: Text: TMJ, Confidence: 0.9590730493191734
+95: c:\Users\yansh\Downloads\Project\Project\dataset\Cars424.png: 0: Text: Ka:03 MG, Confidence: 0.3445204724404871
+95: c:\Users\yansh\Downloads\Project\Project\dataset\Cars424.png: 1: Text: 2784, Confidence: 0.9999719858169556
+96: c:\Users\yansh\Downloads\Project\Project\dataset\Cars44.png: 0: Text: DLZC AG 0786, Confidence: 0.8932420107601469
+97: c:\Users\yansh\Downloads\Project\Project\dataset\Cars48.png: 0: Text: ALR 486, Confidence: 0.744181244266092
+98: c:\Users\yansh\Downloads\Project\Project\dataset\Cars53.png: 0: Text: chio OSE, Confidence: 0.8547663044270174
+99: c:\Users\yansh\Downloads\Project\Project\dataset\Cars54.png: 0: Text: Ltk 378, Confidence: 0.6495320684946547
+100: c:\Users\yansh\Downloads\Project\Project\dataset\Cars64.png: 0: Text: TAXI, Confidence: 0.6394290924072266
+101: c:\Users\yansh\Downloads\Project\Project\dataset\Cars69.png: 0: Text: KWID, Confidence: 0.8167943358421326
+102: c:\Users\yansh\Downloads\Project\Project\dataset\Cars72.png: 0: Text: @LZC N 5617, Confidence: 0.6968986842139271
+103: c:\Users\yansh\Downloads\Project\Project\dataset\Cars73.png: 0: Text: TN 99F2378, Confidence: 0.9347226731961
+104: c:\Users\yansh\Downloads\Project\Project\dataset\Cars77.png: 0: Text: IR 26CU6799, Confidence: 0.6104091687642524
+105: c:\Users\yansh\Downloads\Project\Project\dataset\Cars96.png: 0: Text: PGoMN112, Confidence: 0.7092827764434613
+106: c:\Users\yansh\Downloads\Project\Project\dataset\Cars97.png: 0: Text: 050G1909, Confidence: 0.26409190211486805
+107: c:\Users\yansh\Downloads\Project\Project\dataset\Cars98.png: 0: Text: oJimm-, Confidence: 0.0197710522957192
+107: c:\Users\yansh\Downloads\Project\Project\dataset\Cars98.png: 1: Text: NW YOKK, Confidence: 0.580451578396102
+107: c:\Users\yansh\Downloads\Project\Project\dataset\Cars98.png: 2: Text: YIORRY, Confidence: 0.6383614126885788
+107: c:\Users\yansh\Downloads\Project\Project\dataset\Cars98.png: 3: Text: METRO Farrothtad Club, Confidence: 0.4945654217122273
+108: c:\Users\yansh\Downloads\Project\Project\dataset\download 1).jpg: 0: Text: (UP16 TC 1369, Confidence: 0.5285932404899938
+109: c:\Users\yansh\Downloads\Project\Project\dataset\download.jpg: 0: Text: HR5 4479527, Confidence: 0.17215725098169055
+110: c:\Users\yansh\Downloads\Project\Project\dataset\g.jpg: 0: Text: HRS 4SBO , Confidence: 0.17172598606383188
+111: c:\Users\yansh\Downloads\Project\Project\dataset\hyundai-santro-xing-front-left-rim (1).jpg: 0: Text: PB22K 9130, Confidence: 0.6643306597616315
+112: c:\Users\yansh\Downloads\Project\Project\dataset\ig8es.jpg: 0: Text: HH 20 EE 7602, Confidence: 0.3777178459267378
+113: c:\Users\yansh\Downloads\Project\Project\dataset\im645ages.jpg: 0: Text: KL55 L 2323, Confidence: 0.7224512687073622
+114: c:\Users\yansh\Downloads\Project\Project\dataset\im6574ages.jpg: 0: Text: PB 10FUQq88, Confidence: 0.12793117105413238
+115: c:\Users\yansh\Downloads\Project\Project\dataset\imag85es.jpg: 0: Text: L7J557, Confidence: 0.16140908411433985
+116: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0010.jpg: 0: Text: MH.43.AJ.0770, Confidence: 0.7171159252812956
+117: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0015(3).jpg: 0: Text: MH.43.AJ.0770, Confidence: 0.9455124515008673
+118: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0022.jpg: 0: Text: MHL3BN8715, Confidence: 0.6904593249000162
+119: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0024(1).jpg: 0: Text: NHOLEE2L2L, Confidence: 0.3779118628451806
+120: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0025(2).jpg: 0: Text: MH.43.AJ.0770, Confidence: 0.9455124515008673
+121: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0026.jpg: 0: Text: MK 43 BN 1560, Confidence: 0.940310578497732
+122: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0038.jpg: 0: Text: HH OL DI.7575, Confidence: 0.20441353698369974
+123: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0044.jpg: 0: Text: MHO3AR2833, Confidence: 0.8006166537986026
+124: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0047.jpg: 0: Text: MK 4BAB 2121, Confidence: 0.4816677592338945
+125: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0051.jpg: 0: Text: MH 43V2770, Confidence: 0.961095185812755
+126: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0058.jpg: 0: Text: MH 46AD 0389, Confidence: 0.688801254435487
+127: c:\Users\yansh\Downloads\Project\Project\dataset\IMG-20200222-WA0061.jpg: 0: Text: NH43BN8595, Confidence: 0.09782344293129344
+128: c:\Users\yansh\Downloads\Project\Project\dataset\jupitor-plastics-edapally-ernakulam-car-number-plate-dealers-jubn7.jpg: 0: Text: KL 40 J 25 65, Confidence: 0.42470261255500885
+129: c:\Users\yansh\Downloads\Project\Project\dataset\New-2015-Honda-Jazz-rear-2.jpg: 0: Text: UP 16 TC1730_, Confidence: 0.8807041603415096
+130: c:\Users\yansh\Downloads\Project\Project\dataset\New-Honda-Amaze24.jpg: 0: Text: UP 16 BY 1925, Confidence: 0.9595439320381409
+131: c:\Users\yansh\Downloads\Project\Project\dataset\speedex-nuxycd.jpg: 0: Text: KL 60 L 5577, Confidence: 0.6552104730975362
+132: c:\Users\yansh\Downloads\Project\Project\dataset\WhatsApp Image 2020-02-23 at 12.23.28 AM.jpeg: 0: Text: II2 VAN, Confidence: 0.6475402435692841
